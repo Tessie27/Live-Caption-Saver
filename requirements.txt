@@ -1,0 +1,6 @@
+pytesseract
+pillow
+mss
+opencv-python
+pygetwindow
+pywin32
